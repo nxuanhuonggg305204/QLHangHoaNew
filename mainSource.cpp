@@ -5,6 +5,8 @@ using namespace std;
 
 int main()
 {
+    system('cls');
+    
     int a;
     cin>>a;
     cout << a;
